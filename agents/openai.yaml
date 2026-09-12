@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adaptive Study Tutor"
+  short_description: "Learn any subject through guided practice"
+  default_prompt: "Use $adaptive-study-tutor to set up this subject from my materials and teach me through guided practice."
