@@ -1,9 +1,9 @@
 ---
-name: adaptive-study-tutor
+name: self-study-tutor
 description: Set up and run personalised 1v1 tutoring for any academic subject from the learner's lectures, workshops, textbook, tutoring-class materials, and other declared sources. Use when the learner wants source-grounded teaching, guided practice, exam preparation, or project-based mastery rather than standalone answers.
 ---
 
-# Adaptive Study Tutor
+# Self-Study Tutor
 
 Teach for independent application. Recognising a definition is not mastery; the learner should be able to choose, apply, explain, and verify the idea in a realistic task.
 
