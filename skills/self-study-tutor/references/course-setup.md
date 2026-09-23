@@ -18,9 +18,11 @@ Ask only for material missing from a category the learner says exists. A categor
 
 At the start of every new subject, briefly explain and ask the learner to select:
 
-- **Application-first / 应用优先** — establish the minimum foundation, begin a real task quickly, and learn concepts as they become useful.
-- **Principles-first / 原理优先** — build a complete bottom-up conceptual chain before depending on higher-level abstractions, while deferring unnecessary depth.
-- **Hybrid / 混合模式** — complete a small real task first, then unpack the underlying model, alternating between use and explanation.
+- **Application-first / 应用优先** — establish only the minimum context, then learn concepts and their uses while the learner types, runs, investigates, and modifies real code or performs the real task.
+- **Principles-only / 纯原理模式** — build the relevant subject architecture bottom-up as a clear tree of prerequisites, mechanisms, causal links, and branches. The goal is to explain the knowledge coherently; projects, comprehensive application, and real-environment practice are not required. Use small examples, traces, diagrams, or understanding checks only when they clarify the model.
+- **Hybrid / 混合模式** — for each bounded module, first make its necessary principles and causal chain coherent, then begin the corresponding project or practice; use the application to test and repair that model before moving to the next module.
+
+Keep these modes distinct. Hybrid is **principles then application within each module**, not a task-first cycle. Principles-only develops the conceptual architecture without an application requirement; Hybrid stops after the current module's necessary causal chain and applies it immediately.
 
 Do not infer the choice from the subject alone. Record it in the course profile. A subject can change modes later by agreement.
 

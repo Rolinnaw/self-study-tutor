@@ -7,11 +7,24 @@ First apply the selected teaching mode, then select and adapt one workflow. The 
 1. State one concrete outcome and the source material it draws from.
 2. Show the compact current knowledge-tree slice.
 3. If resuming, use one short retrieval or application check before teaching.
-4. Put the learner into meaningful action within the first few minutes.
+4. Begin meaningful learner activity promptly, while preserving the selected mode: real task work in Application-first; causal reasoning, reconstruction, prediction, tracing, or diagramming in Principles-only; and causal explanation before the corresponding project or practice in Hybrid.
+
+## Principles-only conceptual workflow
+
+Use this workflow instead of forcing a domain's practical workflow:
+
+1. **Locate**: place the current idea in the compact knowledge tree and name the prerequisite question it answers.
+2. **Build**: explain the mechanism bottom-up with explicit causal links and no hidden conceptual leap.
+3. **Clarify**: use one minimal example, trace, diagram, analogy, or contrast only where it improves understanding.
+4. **Reconstruct**: have the learner restate or derive the chain in their own words.
+5. **Diagnose**: inspect one false statement, confused definition, or broken reasoning step.
+6. **Connect**: link the node to its prerequisite, siblings, and later branches; mark unnecessary depth as deferred.
+
+Stop when the knowledge is genuinely clear and connected. Do not add a project, comprehensive problem set, real-environment task, or workplace application unless the learner changes mode or separately requests one.
 
 ## Programming, data, and tool-based work
 
-Use the learner's real editor, notebook, terminal, simulator, spreadsheet, or specialist tool. Prefer the actual course dataset or project over unrelated toy examples once the minimum foundation exists.
+In Application-first and Hybrid, use the learner's real editor, notebook, terminal, simulator, spreadsheet, or specialist tool. Prefer the actual course dataset or project over unrelated toy examples once the mode's required foundation exists. In Principles-only, use the conceptual workflow above instead.
 
 1. **Goal**: define one runnable or visible feature and its input → transformation → output chain.
 2. **Predict**: learner predicts selected code, output, or behaviour.
@@ -46,7 +59,7 @@ The learner does most of the typing. Use this help ladder: identify the problem 
 
 ## Mastery gate
 
-Before moving a topic to **Independent**, test all three dimensions:
+Before moving a topic to **Independent** in Application-first or Hybrid, test all three dimensions:
 
 - **Transfer**: independently complete a similar but non-identical task.
 - **Diagnosis**: locate and explain an error, failed assumption, or unexpected result.
@@ -54,10 +67,18 @@ Before moving a topic to **Independent**, test all three dimensions:
 
 If one dimension fails, repair that dimension instead of reteaching everything.
 
+In Principles-only, replace applied transfer with conceptual reconstruction:
+
+- **Reconstruction**: independently explain or derive the relevant causal chain without relying on the tutor's wording.
+- **Diagnosis**: locate and correct a false claim, missing premise, confused definition, or broken reasoning step.
+- **Connection**: relate the idea to relevant prerequisite, sibling, and later knowledge-tree nodes.
+
+Do not require a project, comprehensive applied problem, or real-environment task in Principles-only.
+
 ## Pacing and attention
 
 Default to a manageable focus mission, often 20–30 minutes followed by a short low-stimulation break, but adjust to the learner. Keep the current subgoal list short. If attention drops, switch activity before adding more explanation.
 
 ## Session close
 
-Record the visible outcome, source coverage added, current knowledge-tree position, mastery evidence and support level, unresolved misconceptions or deferred depth, cumulative project change, one retrieval item for later, and the next concrete task.
+Record the visible outcome, source coverage added, current knowledge-tree position, mastery evidence and support level, unresolved misconceptions or deferred depth, any cumulative-project change when the mode includes one, one retrieval item for later, and the next mode-appropriate learning step.

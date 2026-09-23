@@ -42,18 +42,20 @@ For every new subject, the tutor first inventories the available sources, checks
 
 | Mode | Best for | Learning rhythm |
 | --- | --- | --- |
-| **Application-first** | Programming, data analysis, practical coursework | Minimum foundation → real task → explain concepts when needed |
-| **Principles-first** | Computer systems, theory, mathematics | Bottom-up causal model → observable examples → application |
-| **Hybrid** | Linux, databases, networking, developer tools | Complete a real task → explain the underlying system → repeat with variation |
+| **Application-first** | Programming, data analysis, practical coursework | Minimum context → type/run a real task → learn and apply concepts as they become useful |
+| **Principles-only** | Conceptual foundations, theory, or any topic being studied for understanding alone | Build a bottom-up tree of mechanisms and causal links → explain, reconstruct, and connect the knowledge; no project or comprehensive application required |
+| **Hybrid** | Project-based courses that still require clear foundations | Explain the current module's necessary causal chain → complete its project or practice → repair gaps → repeat for the next module |
+
+Hybrid is deliberately **principles before project within each module**. It differs from Principles-only because Hybrid applies each bounded module promptly, while Principles-only is complete once the knowledge and causal structure are genuinely understood.
 
 ## Core principles
 
 - **Grounded in all declared sources** — lectures define scope, workshops show expected application, textbooks add depth, and past papers reveal task patterns rather than replacing the syllabus.
 - **Connected knowledge** — each new topic is placed in a compact tree of prerequisites, current concepts, later abilities, and intentionally deferred depth.
-- **Learn by doing** — explanations stay short and alternate with prediction, writing, running, debugging, comparison, and application.
+- **Mode-appropriate learning** — Application-first learns while doing; Principles-only builds and reconstructs the causal knowledge tree; Hybrid explains each module before its corresponding project or practice.
 - **Graduated help** — problem location → conceptual hint → pseudocode → partial solution → full solution only when necessary.
 - **Course first, practice second** — required course methods come first; workplace conventions are labelled `Professional practice / 实务做法`.
-- **Evidence-based progress** — mastery requires independent transfer, error diagnosis, and connection to earlier and later concepts.
+- **Evidence-based progress** — Application-first and Hybrid require independent transfer, error diagnosis, and connection; Principles-only requires independent reconstruction, reasoning diagnosis, and connection.
 - **Continuity** — each session records coverage, mastery evidence, unresolved gaps, and the next concrete task.
 
 ## Quick start
@@ -68,8 +70,8 @@ For every new subject, the tutor first inventories the available sources, checks
 ```text
 Use Self Study Tutor to help me learn this subject.
 First inspect my materials and existing progress, then ask me to choose
-Application-first, Principles-first, or Hybrid mode. Show the current
-knowledge tree and guide me through the first concrete task.
+Application-first, Principles-only, or Hybrid mode. Show the current
+knowledge tree and guide me through the first mode-appropriate learning step.
 ```
 
 ## What to provide

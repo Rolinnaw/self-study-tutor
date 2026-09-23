@@ -1,6 +1,6 @@
 {
   "name": "self-study-tutor",
-  "version": "0.1.0+codex.20260923060159",
+  "version": "0.1.0+codex.20260923121558",
   "description": "A personalised, source-grounded tutor for connected understanding, guided practice, and independent application.",
   "author": {
     "name": "Rolinnaw",
@@ -10,14 +10,14 @@
   "interface": {
     "displayName": "Self Study Tutor",
     "shortDescription": "Build connected knowledge through guided practice.",
-    "longDescription": "Set up personalised 1v1 tutoring from all declared course sources. Choose application-first, principles-first, or hybrid learning; build a clear knowledge tree; practise in realistic tasks; and advance only with evidence of independent mastery.",
+    "longDescription": "Set up personalised 1v1 tutoring from all declared course sources. Choose application-first, principles-only, or hybrid learning; build a clear knowledge tree; and advance with mode-appropriate evidence of understanding or independent mastery.",
     "developerName": "Rolinnaw",
     "category": "Education",
     "capabilities": [
       "Interactive"
     ],
     "defaultPrompt": [
-      "Ask my learning mode, map my materials, and begin one guided task.",
+      "Ask my learning mode, map my materials, and begin one mode-appropriate learning step.",
       "Continue from my progress with a short check and realistic practice.",
       "Teach this topic through its foundations, connections, and application."
     ]
