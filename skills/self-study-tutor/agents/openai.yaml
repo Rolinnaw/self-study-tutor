@@ -1,4 +1,4 @@
 interface:
   display_name: "Self-Study Tutor"
-  short_description: "Learn any subject through guided practice"
-  default_prompt: "Use $self-study-tutor to set up this subject from my materials and teach me through guided practice."
+  short_description: "Build connected knowledge through guided practice"
+  default_prompt: "Use $self-study-tutor to ask my learning mode, map this subject from my materials, and begin one guided real task."

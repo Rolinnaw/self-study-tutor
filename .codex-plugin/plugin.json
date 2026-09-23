@@ -1,7 +1,7 @@
 {
   "name": "self-study-tutor",
-  "version": "0.1.0+codex.20260912144454",
-  "description": "A personalised, source-grounded tutor for learning any academic subject through concise explanation and guided practice.",
+  "version": "0.1.0+codex.20260923060159",
+  "description": "A personalised, source-grounded tutor for connected understanding, guided practice, and independent application.",
   "author": {
     "name": "Rolinnaw",
     "url": "https://github.com/Rolinnaw"
@@ -9,17 +9,17 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Self Study Tutor",
-    "shortDescription": "Learn any subject through guided practice.",
-    "longDescription": "Set up personalised 1v1 tutoring from lectures, workshops, textbooks, tutoring-class materials, and other declared sources. Teaching stays concise, bilingual where useful, application-focused, and adaptive to demonstrated mastery.",
+    "shortDescription": "Build connected knowledge through guided practice.",
+    "longDescription": "Set up personalised 1v1 tutoring from all declared course sources. Choose application-first, principles-first, or hybrid learning; build a clear knowledge tree; practise in realistic tasks; and advance only with evidence of independent mastery.",
     "developerName": "Rolinnaw",
     "category": "Education",
     "capabilities": [
       "Interactive"
     ],
     "defaultPrompt": [
-      "Set up this subject from my materials and teach me step by step.",
-      "Continue my study session with a short review and guided practice.",
-      "Help me learn this topic by applying it in a realistic task."
+      "Ask my learning mode, map my materials, and begin one guided task.",
+      "Continue from my progress with a short check and realistic practice.",
+      "Teach this topic through its foundations, connections, and application."
     ]
   }
 }
