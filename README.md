@@ -4,13 +4,14 @@
 
 Self-Study Tutor is a personal Codex plugin for learning academic subjects from your own lectures, workshops, textbooks, tutoring materials, past papers, and progress records. It teaches in concise Chinese where helpful, preserves essential English terminology, and moves from explanation to real application without overwhelming the learner.
 
-> Designed especially for native Chinese-speaking Computer Science students studying from English materials: understand difficult ideas in clear Chinese while building the English technical vocabulary needed for exams, documentation, code, and professional work.
+> Designed especially for native Chinese-speaking Computer Science students using Chinese, English, or mixed-language materials: understand difficult ideas efficiently in Chinese while building the English technical vocabulary needed for courses, exams, documentation, code, and professional work.
 
 ## Who it is for
 
 Self-Study Tutor is especially suitable for Computer Science students who:
 
-- think more efficiently in Chinese but study, code, and take exams in English;
+- use Chinese, English, or mixed-language course materials and want explanations adapted to the actual context;
+- think more efficiently in Chinese but still need to study, code, read documentation, or take exams partly in English;
 - want technical keywords, definitions, syntax, and professional expressions preserved in English;
 - need foundations and causal mechanisms explained clearly before concepts are connected to code;
 - want to progress from coursework to independent projects, debugging, and workplace application.
